@@ -27,3 +27,4 @@ arduino-cli upload -p /dev/cu.usbmodemXXXX --fqbn arduino:avr:uno Blink
 | Sketch | Description |
 | --- | --- |
 | [Blink](Blink/Blink.ino) | Blinks the onboard LED on pin 13 |
+| [ServoPot](ServoPot/ServoPot.ino) | Sets a servo (pin 9) angle from a potentiometer (A0) |
